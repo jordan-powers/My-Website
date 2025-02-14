@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/portrait_1.png" alt="Profile Pic" width="400px" style="display:block;margin:auto">
+<img src="/assets/IMG_1278_flipped.png" alt="Profile Pic" width="400px" style="display:block;margin:auto">
 
 # About Me
 I am Jordan Powers, a software engineer currently employed at Elastic as part of the storage engine
