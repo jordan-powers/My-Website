@@ -8,9 +8,10 @@ layout: home
 <img src="/assets/portrait_1.png" alt="Profile Pic" width="400px" style="display:block;margin:auto">
 
 # About Me
-I am Jordan Powers, a software engineer currently employed at Raytheon Technologies. I recently
-earned a Bachelors of Science in Software Engineering from California Polytechnic State University
-at San Luis Obispo.
+I am Jordan Powers, a software engineer currently employed at Elastic as part of the storage engine
+team, and formerly employed at Raytheon working on the Next-Gen OPIR GEO program. I graduated
+_Summa Cum Laude_ from California Polytechnic State University at San Luis Obispo with a Bachelors
+of Science in Software Engineering.
 
 # What is this?
 This is my personal website. My goal for this page is to introduce myself, demonstrate
