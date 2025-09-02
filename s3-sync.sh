@@ -9,7 +9,7 @@ JEKYLL_SCRIPT=${SCRIPT_DIR}/jekyll.sh
 
 [ -d $AWS_DIR ] || mkdir $AWS_DIR
 
-SITENAME=jordanpowers.link
+SITENAME=jordanpowers.net
 
 pushd ${SCRIPT_DIR}/${SITENAME} 
 echo "Building..."
